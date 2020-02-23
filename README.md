@@ -1,2 +1,2 @@
 # hello-world
-Zero Laba
+Laba
